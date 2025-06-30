@@ -1,0 +1,7 @@
+dspy-ai>=2.6.0
+streamlit>=1.29.0
+openai>=1.0.0
+requests>=2.31.0
+pydantic>=2.0.0
+ujson>=5.8.0
+python-dotenv>=1.0.0
